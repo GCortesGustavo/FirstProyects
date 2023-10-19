@@ -1,0 +1,41 @@
+* {
+    background-color: #F0EDD4
+  }
+  #image {
+    display: block;
+    justify-content: center;
+    max-width: 100%; 
+  }
+  
+  #img-div {
+    background-color: #FD5959
+  }
+  
+  .divider {
+    border-bottom: 1px solid #888989;
+    margin: 2px 0;
+  }
+  
+  #main {
+    justify-content: center;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #title {
+    background-color: #FF9C6D
+  }
+  
+  #info {
+    background-color:  #FCFF82
+  }
+  
+  #punto{
+    font-size: 90%;
+    text-align: left;
+  }
+  
+  #mas-info {
+    background-color: #AFC5FF;
+    font-size: 80%
+  }
